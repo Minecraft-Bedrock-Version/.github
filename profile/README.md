@@ -1,6 +1,6 @@
 # Minecraft-Bedrock-Version
 
-> **2026 겨울방학 프로젝트**
+> **2026-W Project**
 > 박혜수(PM), 양유상, 윤주혁, 이제혁, 이제희, 정재성
 
 ---
