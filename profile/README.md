@@ -27,4 +27,4 @@
 
 ## WBS (수정 및 진행 중)
 
-<img width="1566" height="874" alt="wbs" src="https://github.com/user-attachments/assets/ce0492e3-a29d-4869-a48c-f881422e7f5d" />
+<img width="1570" height="873" alt="스크린샷 2026-01-17 00 12 01" src="https://github.com/user-attachments/assets/b29d0eba-dfae-4e7c-994a-dbefea0acdba" />
