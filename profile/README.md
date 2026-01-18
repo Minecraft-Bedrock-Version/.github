@@ -29,4 +29,4 @@
 
 ## WBS (수정 및 진행 중)
 
-<img width="1575" height="852" alt="image" src="https://github.com/user-attachments/assets/cba8b185-bd63-4f27-b0f7-c3b169c0d559" />
+<img width="1309" height="726" alt="image" src="https://github.com/user-attachments/assets/5eae9732-10c6-4f7c-a9b6-310fda587e02" />
