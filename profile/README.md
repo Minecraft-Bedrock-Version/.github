@@ -15,6 +15,9 @@
 
 <img width="1438" height="645" alt="image" src="https://github.com/user-attachments/assets/e5f67c9e-5ac5-4f24-8adc-7dbff8b49c98" />
 
+<img width="829" height="697" alt="image" src="https://github.com/user-attachments/assets/9e279102-bad8-4237-8025-252d665a7fac" />
+
+
 ---
 
 ## 프로젝트 목표
@@ -29,4 +32,5 @@
 
 ## WBS (수정 및 진행 중)
 
-<img width="1309" height="726" alt="image" src="https://github.com/user-attachments/assets/5eae9732-10c6-4f7c-a9b6-310fda587e02" />
+<img width="1308" height="705" alt="image" src="https://github.com/user-attachments/assets/47384559-15c9-4b26-ba20-50b7f5d03fa3" />
+
