@@ -16,7 +16,7 @@
 
 **최소 권한 IAM 정책** : AI가 제안한 정책은 사용자의 최종 승인 절차를 거칩니다. 이후 자격 증명 생성 → 인프라 생성 → 사용된 자격 증명 삭제로 이어지는 보안 중심의 Workflow를 구현합니다.
 
-<img width="1372" alt="image" src="https://github.com/user-attachments/assets/9e279102-bad8-4237-8025-252d665a7fac" />
+<img width="1372" alt="image" src="https://github.com/user-attachments/assets/714ebd4c-4709-4091-b030-198f6975ba42" />
 
 
 ---
